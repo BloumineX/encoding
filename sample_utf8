@@ -1,8 +1,7 @@
 #! /usr/bin/python
-# vim: set fileencoding=UTF8 :
+# coding=UTF8
 
 
 
-print("hello world")
 #Roma.Россия.العربية.भारत.Việt Nam.中国.中國.한국.日本
 print("Roma.Россия.العربية.भारत.Việt Nam.中国.中國.한국.日本")
